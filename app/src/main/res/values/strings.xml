@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Women in Pink</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="page_name" translatable="false">Android About Page</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
